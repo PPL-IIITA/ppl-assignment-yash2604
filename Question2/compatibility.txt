@@ -1,0 +1,11 @@
+Compatible Couples
+Couple_ID - Boy_id11_Girl_id1 	Compatibility - 132	Gifts Exchange- 6
+Couple_ID - Boy_id1_Girl_id2 	Compatibility - 321	Gifts Exchange- 3
+Couple_ID - Boy_id9_Girl_id3 	Compatibility - 151	Gifts Exchange- 6
+Couple_ID - Boy_id2_Girl_id4 	Compatibility - 146	Gifts Exchange- 5
+Couple_ID - Boy_id21_Girl_id5 	Compatibility - 139	Gifts Exchange- 6
+Couple_ID - Boy_id4_Girl_id6 	Compatibility - 347	Gifts Exchange- 109
+Couple_ID - Boy_id40_Girl_id7 	Compatibility - 91	Gifts Exchange- 7
+Couple_ID - Boy_id16_Girl_id8 	Compatibility - 116	Gifts Exchange- 6
+Couple_ID - Boy_id7_Girl_id9 	Compatibility - 79	Gifts Exchange- 5
+Couple_ID - Boy_id3_Girl_id10 	Compatibility - 120	Gifts Exchange- 2
