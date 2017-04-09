@@ -10,6 +10,8 @@ OS Type : 64 bit
 
 ##Command for command prompt in Windows :
 
+(for question 3,4,5 changes are made in previous classes of question 1,2)
+
 \Question1\build\classes>java question1.Question1
 
 \Question2\build\classes>java question2.Question2
@@ -18,4 +20,4 @@ OS Type : 64 bit
 
 \Question4\build\classes>java question2.Question2
 
-\Question1\build\classes>java question1.Question1
+\Question5\build\classes>java question1.Question1
