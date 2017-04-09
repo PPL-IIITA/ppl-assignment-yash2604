@@ -1,0 +1,7 @@
+performing breakup of 6 couples
+performing breakup of Couple_ID -  Boy_id16_Girl_id15
+performing breakup of Couple_ID -  Boy_id32_Girl_id14
+performing breakup of Couple_ID -  Boy_id18_Girl_id13
+performing breakup of Couple_ID -  Boy_id20_Girl_id12
+performing breakup of Couple_ID -  Boy_id13_Girl_id11
+performing breakup of Couple_ID -  Boy_id11_Girl_id10

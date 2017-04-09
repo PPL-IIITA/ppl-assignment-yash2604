@@ -1,0 +1,11 @@
+Happiest Couples
+Couple_ID -  Boy_id11_Girl_id1			Happiness -  41			Gifts Exchange - 6
+Couple_ID -  Boy_id1_Girl_id2			Happiness -  2450			Gifts Exchange - 3
+Couple_ID -  Boy_id9_Girl_id3			Happiness -  145			Gifts Exchange - 6
+Couple_ID -  Boy_id2_Girl_id4			Happiness -  6			Gifts Exchange - 5
+Couple_ID -  Boy_id21_Girl_id5			Happiness -  67			Gifts Exchange - 6
+Couple_ID -  Boy_id4_Girl_id6			Happiness -  8158			Gifts Exchange - 109
+Couple_ID -  Boy_id40_Girl_id7			Happiness -  2906			Gifts Exchange - 7
+Couple_ID -  Boy_id16_Girl_id8			Happiness -  1451			Gifts Exchange - 6
+Couple_ID -  Boy_id7_Girl_id9			Happiness -  442441			Gifts Exchange - 5
+Couple_ID -  Boy_id3_Girl_id10			Happiness -  1506			Gifts Exchange - 2
