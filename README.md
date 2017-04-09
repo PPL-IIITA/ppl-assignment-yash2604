@@ -10,10 +10,10 @@ OS Type : 64 bit
 
 ##Command for command prompt in Windows :
 
-\Question1\build\classes>java Question1
+\Question1\build\classes>java question1.Question1
 
-\Question2\build\classes>java Question2
+\Question2\build\classes>java question2.Question2
 
-\Question3\build\classes>java Question1
+\Question3\build\classes>java question1.Question1
 
-\Question4\build\classes>java Question2
+\Question4\build\classes>java question2.Question2
