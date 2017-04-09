@@ -14,4 +14,6 @@ OS Type : 64 bit
 
 \Question2\build\classes>java Question2
 
+\Question3\build\classes>java Question1
+
 \Question4\build\classes>java Question2
